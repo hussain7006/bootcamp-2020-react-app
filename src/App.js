@@ -12,7 +12,7 @@ function App() {
         </p> */}
 
         <h1>Keep it up </h1>
-        <h2>Regargs: </h2>
+        <h2>Regards: </h2>
         <h3>Muhammad Hussain </h3>
         
         <a
