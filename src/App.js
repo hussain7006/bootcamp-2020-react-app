@@ -12,8 +12,8 @@ function App() {
         </p> */}
 
         <h1>Keep it up </h1>
-        <h2>Regargs: </h1>
-        <h3>Muhammad Hussain </h1>
+        <h2>Regargs: </h2>
+        <h3>Muhammad Hussain </h3>
         
         <a
           className="App-link"
