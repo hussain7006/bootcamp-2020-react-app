@@ -33,10 +33,10 @@ jobs:
         cmd: install
     
     - name: Creating build
-        run: npm run build
+      run: yarn build
         
     - name: Installing surge
-        run:  npm install -g surge
+      run:  npm install -g surge
     
     - name: Deploying on surge
-        run:  surge ./build bootcamp_2020-hussain.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run:  surge ./build bootcamp_2020-hussain.surge.sh --token ${{secrets.SURGE_TOKEN}}
